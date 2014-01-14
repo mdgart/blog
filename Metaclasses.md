@@ -1,3 +1,5 @@
+[Home](README.md)
+
 Real World Use for Metaclasses in Python
 ========================================
 
