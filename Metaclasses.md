@@ -14,3 +14,5 @@ a restful API for every model, since ngTable has is own way to send urls attribu
 So I decided to write my own RestfulAPI for Flask and SQLAlchemy, and to use Metaclasses to manage some data that
 otherwise the class would be force to calculate every time I send a request. I'm also using descriptors for the various fields
 type, but this is probably a topic for another article.
+
+[ This is a work in progress ]
